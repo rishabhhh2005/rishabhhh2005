@@ -39,19 +39,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github,postman,vscode" />
 </p>
 
----
-
-## 📊 Coding Stats
-
-<div align="center">
-  <img src="./assets/github.png" width="850"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/leetcode.png" width="850"/>
-</div>
 
 ---
 
@@ -76,7 +63,7 @@
 ## 🧠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/riishabh001?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
 ---
