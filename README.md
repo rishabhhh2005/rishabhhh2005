@@ -7,21 +7,12 @@
 
 ---
 
-## 🚀 About Me
-
-- 💻 Passionate about building scalable full-stack applications
-- 🧠 Strong interest in Data Structures, Algorithms & System Design
-- 🔭 Currently building **AI + Full Stack Projects**
-- 🌱 Exploring **Distributed Systems, Scalable Architectures, Backend Engineering**
-- 🎯 Goal: Crack top software engineering roles
-
----
 
 ## 🛠 Tech Stack
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,sql" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,sql" />
 </p>
 
 ### Backend
@@ -31,7 +22,7 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind," />
 </p>
 
 ### Database & Tools
