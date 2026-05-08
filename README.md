@@ -1,46 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rishabh Puri</h1>
-<h3 align="center">Software Developer | DSA Enthusiast | Full Stack Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+Code.+I+Build.+I+Solve.;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;DSA+%7C+System+Design+%7C+Backend+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Code.+I+Build.+I+Solve.;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;DSA+%7C+System+Design+%7C+Backend+Engineering" />
 </p>
 
 ---
 
-
 ## 🛠 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,sql,spring,nodejs,express,fastapi,react,html,css,tailwind,mysql,mongodb,postgres,docker,git,github,postman,vscode" />
 </p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind," />
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github,postman,vscode" />
-</p>
-
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabhhh2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhhh2005&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabhhh2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
@@ -73,5 +50,5 @@
 ---
 
 <p align="center">
-  ⭐ <b>“Code. Learn. Build. Repeat.”</b> ⭐
+  <b>“Code. Learn. Build. Repeat.”</b>
 </p>
