@@ -62,10 +62,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/rishabh-puri-06a0072b6/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rishabhpuri205@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
